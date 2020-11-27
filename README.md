@@ -8,7 +8,7 @@ For that, we will be using the same list of wikipedia’s terrorism related arti
 We will consider other factors, like the evolution of internet traffic, that grows exponentially. We will also pay attention to events such as new privacy-related scandals, terrors attack or war, and outline them with the views’ evolution.
 
 ## Research Questions
-1. Is there a persistent, long-term chilling effect related to Snowden’s revelation ?
+1. Is there a persistent, long-term chilling effect related to Snowden’s revelation?
 2. Can we highlight new chilling effects due to other scandals?
 3. What may be the other factors governing the traffic and how are they affecting the article views?
 
@@ -44,4 +44,4 @@ We can also use a data source like [Internet World Stats](https://www.internetwo
 
 
 ## Questions for TAs (optional)
-1. Do we need to validate the datasource we are using? For example, for internet usage, even the World [Bank dataset](https://databank.worldbank.org/reports.aspx?source=2&series=IT.NET.USER.ZS) was not complete. But we found a more complete dataset in [Internet Worrld Stats](https://www.internetworldstats.com/emarketing.htm ). In this case do we need to validate each datapoint?
+1. Do we need to validate the datasource we are using? For example, for internet usage, even the [World Bank dataset](https://databank.worldbank.org/reports.aspx?source=2&series=IT.NET.USER.ZS) was not complete. But we found a more complete dataset in [Internet World Stats](https://www.internetworldstats.com/emarketing.htm ). In this case do we need to validate each datapoint?
