@@ -49,7 +49,8 @@ We can also use a data source like [Internet World Stats](https://www.internetwo
 
 ## Contributions
 - Florian: scraping of Wikipedia pageviews, research question 2, interactive plots, data story.
-
+- Wenuka: pre-processing, scraping of Internet usage data, research question 3, data story.
+- Carl: finding other events, research question 1, data story, video pitch.
 
 ## Data Story
 Available [here](https://wenuka.github.io/chillingeffect/)
