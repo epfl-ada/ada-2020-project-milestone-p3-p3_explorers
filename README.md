@@ -46,6 +46,11 @@ We can also use a data source like [Internet World Stats](https://www.internetwo
 ## Questions for TAs (optional)
 1. Do we need to validate the datasource we are using? For example, for internet usage, even the [World Bank dataset](https://databank.worldbank.org/reports.aspx?source=2&series=IT.NET.USER.ZS) was not complete. But we found a more complete dataset in [Internet World Stats](https://www.internetworldstats.com/emarketing.htm ). In this case do we need to validate each datapoint?
 
+
 ## Contributions
 - Florian: scraping of Wikipedia pageviews, research question 2, interactive plots, data story.
+
+
+## Data Story
+Available [here](https://wenuka.github.io/chillingeffect/)
 
